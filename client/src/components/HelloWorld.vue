@@ -66,6 +66,7 @@ const count = ref(0)
 .__footer {
   background-color: rgb(158, 116, 136);
   grid-area: footer;
+  width: max-content;
 }
 .read-the-docs {
   color: #888;
