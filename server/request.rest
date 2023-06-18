@@ -1,0 +1,4 @@
+GET https://127.0.0.1:5000/test
+
+###
+GET https://localhost:5000/oms-dashboard/api/user/getuser

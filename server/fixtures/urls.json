@@ -1,0 +1,12 @@
+{    
+    "CIS_VideoURL":"https://c3.omshealth.com:5055",
+    "TGMC_VideoURL":"https://c3.omshealth.com:5051",
+    "SBH_VideoURL":"https://c3.omshealth.com:5056",
+    "MCI_VideoURL":"https://c3.omshealth.com:5058",
+    "Reply_Mail_ID":"no_reply@objectivemedicalsystems.com",
+    "Reply_Mail_ID_Username":"elavarasan@objectivemedicalsystems.com",
+    "Reply_Mail_ID_Password":"Singapore#060110",
+    "SMPT_Host":"smtpout.secureserver.net",
+    "SMPT_Port":"25",
+    "C3_Cloud_API_Name":"https://c3.omshealth.com/testcapp/triggerMail"
+}
